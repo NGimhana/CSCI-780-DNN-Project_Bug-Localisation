@@ -1,0 +1,2 @@
+bug_id,query
+200,"Bug 200 - Ghost thumbnail image in observation list view  When I create an observation without an image and go back to the My Observations list, there is an image there from another one of my obs. See screenshot below. These obs shouldn't have images. I'm on build 152.![image](https://cloud.githubusercontent.com/assets/11527994/17843393/4e4c038a-67e2-11e6-85ca-e8ecc9e86cad.png)## Steps to reproduce bug.- Tap create ob button- Tap ""Skip Photo""- Save observation by tapping the checkmark in upper right"
