@@ -1,5 +1,14 @@
 # CSCI-780-DNN-Project
 
+## Collected Android GUI Bug-Solution DataSet
+
+Buildup the evaluation data - AntroR2, with additional (37) bugs and corresponding ground truth data for bug localization
+* Collected Bug-Solution pairs => https://drive.google.com/drive/u/0/folders/1Y8FL42F6YleZDKoDsgkiibygPmodjFdK
+
+* Collected Buggy Source Codes => https://drive.google.com/drive/u/0/folders/1EPsFpq6P5S1N4UW0UbOeg8e7WHz-hVxp
+
+* Collected Fixed Source Codes => https://drive.google.com/drive/u/0/folders/18XOgFirP4bHLiCjjM9Mgl57UKnmQhSUt
+
 ## Run
 
 1. Download ```issues.json``` and ```Dataset_ AndroR2.csv``` from https://drive.google.com/drive/folders/1BKnVBdeN4sok04gXe_n-kWyrwaU0Ck01?usp=sharing. And extract those to ```data/raw_data``` directory.
