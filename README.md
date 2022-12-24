@@ -3,11 +3,11 @@
 ## Collected Android GUI Bug-Solution DataSet
 
 Buildup the evaluation data - AntroR2, with additional (37) bugs and corresponding ground truth data for bug localization
-* Collected Bug-Solution pairs => https://drive.google.com/drive/u/0/folders/1Y8FL42F6YleZDKoDsgkiibygPmodjFdK
+* Collected Bug-Solution pairs => https://drive.google.com/drive/folders/1Y8FL42F6YleZDKoDsgkiibygPmodjFdK?usp=sharing
 
-* Collected Buggy Source Codes => https://drive.google.com/drive/u/0/folders/1EPsFpq6P5S1N4UW0UbOeg8e7WHz-hVxp
+* Collected Buggy Source Codes => https://drive.google.com/drive/folders/1EPsFpq6P5S1N4UW0UbOeg8e7WHz-hVxp?usp=sharing
 
-* Collected Fixed Source Codes => https://drive.google.com/drive/u/0/folders/18XOgFirP4bHLiCjjM9Mgl57UKnmQhSUt
+* Collected Fixed Source Codes => https://drive.google.com/drive/folders/18XOgFirP4bHLiCjjM9Mgl57UKnmQhSUt?usp=sharing
 
 ## Run
 
